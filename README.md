@@ -206,4 +206,4 @@ ArGoSoft Mail Server is offered as a complete free version with all features and
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-27 21:53:45 UTC
+**Last updated:** 2026-09-28 00:22:56 UTC
